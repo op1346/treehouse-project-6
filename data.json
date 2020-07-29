@@ -1,0 +1,53 @@
+{
+  "projects":
+  [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "",
+      "technologies": [],
+      "live_link": "",
+      "github_link": "https://github.com/op1346/treehouse-project-1",
+      "image_urls": []
+    },
+
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "",
+      "technologies": [],
+      "live_link": "",
+      "github_link": "https://github.com/op1346/treehouse-project-2",
+      "image_urls": []
+    },
+
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "",
+      "technologies": [],
+      "live_link": "",
+      "github_link": "https://github.com/op1346/treehouse-project-3",
+      "image_urls": []
+    },
+
+    {
+      "id": 3,
+      "project_name": "Object Oriented Programming Game Show App",
+      "description": "",
+      "technologies": [],
+      "live_link": "",
+      "github_link": "https://github.com/op1346/treehouse-project-4",
+      "image_urls": []
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "",
+      "technologies": [],
+      "live_link": "",
+      "github_link": "https://github.com/op1346/treehouse-project-5",
+      "image_urls": []
+    }
+  ]
+}
