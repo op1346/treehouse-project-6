@@ -18,7 +18,7 @@
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://op1346.github.io/treehouse-project-2/",
       "github_link": "https://github.com/op1346/treehouse-project-2",
-      "image_urls": ["/static/images/project2-1.png"]
+      "image_urls": ["/static/images/project2-1.png", "/static/images/project2-2.png", "/static/images/project2-3.png"]
     },
 
     {
@@ -28,7 +28,7 @@
       "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://op1346.github.io/treehouse-project-3/",
       "github_link": "https://github.com/op1346/treehouse-project-3",
-      "image_urls": ["/static/images/project3-1.png", "/static/images/project3-2.png"]
+      "image_urls": ["/static/images/project3-1.png", "/static/images/project3-2.png", "/static/images/project3-3.png"]
     },
 
     {
@@ -47,7 +47,7 @@
       "technologies": ["JavaScript", "JQuery", "HTML", "CSS"],
       "live_link": "https://op1346.github.io/treehouse-project-5/",
       "github_link": "https://github.com/op1346/treehouse-project-5",
-      "image_urls": ["/static/images/project5-1.png", "/static/images/project5-1.png", "/static/images/project5-1.png"]
+      "image_urls": ["/static/images/project5-1.png", "/static/images/project5-2.png", "/static/images/project5-3.png"]
     }
   ]
 }
