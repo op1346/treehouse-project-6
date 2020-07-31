@@ -31,11 +31,11 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #254E58;
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: #88BDBC;
 }
 
 a{
@@ -58,14 +58,14 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: #88BDBC;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: #112D32;
   }
 
   .portfolio-me a{

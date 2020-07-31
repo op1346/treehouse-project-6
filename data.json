@@ -4,50 +4,50 @@
     {
       "id": 0,
       "project_name": "Random Quote Generator",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
+      "description": "Generates a random quote whenever the user clicks on a button.",
+      "technologies": ["JavaScript","HTML", "CSS"],
+      "live_link": "https://op1346.github.io/treehouse-project-1/",
       "github_link": "https://github.com/op1346/treehouse-project-1",
-      "image_urls": []
+      "image_urls": ["/static/images/project1-1.png", "/static/images/project1-2.png", "/static/images/project1-3.png"]
     },
 
     {
       "id": 1,
       "project_name": "List Pagination and Filtering",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
+      "description": "Demonstrates DOM manipulation and filters and creates pages for better navigation.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://op1346.github.io/treehouse-project-2/",
       "github_link": "https://github.com/op1346/treehouse-project-2",
-      "image_urls": []
+      "image_urls": ["/static/images/project2-1.png"]
     },
 
     {
       "id": 2,
       "project_name": "Interactive Form",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
+      "description": "Created an interactive form for a fictional conference.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://op1346.github.io/treehouse-project-3/",
       "github_link": "https://github.com/op1346/treehouse-project-3",
-      "image_urls": []
+      "image_urls": ["/static/images/project3-1.png", "/static/images/project3-2.png"]
     },
 
     {
       "id": 3,
-      "project_name": "Object Oriented Programming Game Show App",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
+      "project_name": "OOP Game Show App",
+      "description": "Hang man type of game that demonstrates object-oriented programming.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://op1346.github.io/treehouse-project-4/",
       "github_link": "https://github.com/op1346/treehouse-project-4",
-      "image_urls": []
+      "image_urls": ["/static/images/project4-1.png", "/static/images/project4-2.png", "/static/images/project4-3.png"]
     },
     {
       "id": 4,
       "project_name": "Public API Requests",
-      "description": "",
-      "technologies": [],
-      "live_link": "",
+      "description": "Created a fictional startup employee directory to demonstrate API usage and manipulation.",
+      "technologies": ["JavaScript", "JQuery", "HTML", "CSS"],
+      "live_link": "https://op1346.github.io/treehouse-project-5/",
       "github_link": "https://github.com/op1346/treehouse-project-5",
-      "image_urls": []
+      "image_urls": ["/static/images/project5-1.png", "/static/images/project5-1.png", "/static/images/project5-1.png"]
     }
   ]
 }
