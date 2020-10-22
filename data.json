@@ -61,11 +61,11 @@
     {
       "id": 6,
       "project_name": "SQL Library Manager",
-      "description": "A bot that introduces my friendship with a friend that is also currently looking for a position in web dev!",
-      "technologies": ["JavaScript", "React", "Express", "HTML", "CSS"],
-      "live_link": "http://www.jotheojbot.com",
-      "github_link": "https://github.com/op1346/didactic-octo-dollop",
-      "image_urls": ["/static/images/project6-1.png", "/static/images/project6-2.png", "/static/images/project6-3.png"]
+      "description": "Project to demonstrate database manipulation skills.",
+      "technologies": ["JavaScript", "React Router", "Fetch API", "JSX"],
+      "live_link": "https://library-database-op.herokuapp.com/",
+      "github_link": "https://github.com/op1346/treehouse-project-8",
+      "image_urls": ["/static/images/project7-1.png", "/static/images/project7-2.png", "/static/images/project7-3.png"]
     }
   ]
 }
