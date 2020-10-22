@@ -52,7 +52,16 @@
     {
       "id": 5,
       "project_name": "JO the OJ Bot",
-      "description": "A website to promote kindness. What started off as a physical journal in high school, I've created an online version so that it is accessible anywhere in the world.",
+      "description": "A bot that introduces my friendship with a friend that is also currently looking for a position in web dev!",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "http://www.jotheojbot.com",
+      "github_link": "https://github.com/op1346/didactic-octo-dollop",
+      "image_urls": ["/static/images/project6-1.png", "/static/images/project6-2.png", "/static/images/project6-3.png"]
+    },
+    {
+      "id": 6,
+      "project_name": "SQL Library Manager",
+      "description": "A bot that introduces my friendship with a friend that is also currently looking for a position in web dev!",
       "technologies": ["JavaScript", "React", "Express", "HTML", "CSS"],
       "live_link": "http://www.jotheojbot.com",
       "github_link": "https://github.com/op1346/didactic-octo-dollop",
