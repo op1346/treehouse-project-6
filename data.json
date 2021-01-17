@@ -66,6 +66,15 @@
       "live_link": "https://library-database-op.herokuapp.com/",
       "github_link": "https://github.com/op1346/treehouse-project-8",
       "image_urls": ["/static/images/project7-1.png", "/static/images/project7-2.png", "/static/images/project7-3.png"]
+    },
+    {
+      "id": 7,
+      "project_name": "Friendly",
+      "description": "A site for finding eco-friendly alternatives to everyday goods.",
+      "technologies": ["JavaScript", "React", "CSS", "JSX"],
+      "live_link": "http://www.shopfriendly.co",
+      "github_link": "https://github.com/op1346/expert-succotash",
+      "image_urls": ["/static/images/project8-1.png", "/static/images/project8-2.png", "/static/images/project8-3.png"]
     }
   ]
 }
